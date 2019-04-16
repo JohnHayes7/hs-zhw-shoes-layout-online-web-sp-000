@@ -25,6 +25,7 @@
 /* Positioning Classes */
 
 #featured-1{
+  float: left;
   width: 66%;
 }
 
