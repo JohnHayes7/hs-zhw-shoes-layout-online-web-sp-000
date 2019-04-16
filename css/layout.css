@@ -24,15 +24,18 @@
 
 /* Positioning Classes */
 
-#featured-1{
-  float: left;
-  width: 66%;
-}
-
-#archive{
-  float: left;
+.shadow{
   width: 32%;
 }
+/*#featured-1{*/
+/*  float: left;*/
+/*  width: 66%;*/
+/*}*/
+
+/*#archive{*/
+/*  float: left;*/
+/*  width: 32%;*/
+/*}*/
 
 
 
